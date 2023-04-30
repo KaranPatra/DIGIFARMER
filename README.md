@@ -49,7 +49,7 @@ Karan Patra
 Arpit Mishra
 
 <p align="center">
-<img src = "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"  height="120" alt="Arpit Mishra">
 </p>
 <p align="center">
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -64,7 +64,7 @@ Arpit Mishra
 Vivek Prajapati
 
 <p align="center">
-<img src = "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"  height="120" alt="Vivek Prajapati">
 </p>
 <p align="center">
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
@@ -79,7 +79,7 @@ Vivek Prajapati
 Shubham Waghmare
 
 <p align="center">
-<img src = "https://drive.google.com/file/d/1BcI3kxoOPZgkuqQSHlMinfn1qXD79-UK/view?usp=share_link"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg"  height="120" alt="Shubham Waghmare">
 </p>
 <p align="center">
 <a href = "#"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
