@@ -10,14 +10,19 @@ In recent times, farmers are facing various challenges such as crop diseases, un
 
 DigiFarmer is an app that uses AI&ML models to predict crop quality, detect diseases, and other related factors. The app is designed using Flutter and Dart programming language. The app uses TensorFlow Lite and LGBM Classifier Algorithm for the back-end processing.
 
-## Screenshots
 
-![Screenshot 1](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/1.png)
-![Screenshot 2](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/2.png)
-![Screenshot 3](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/3.png)
-![Screenshot 4](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/4.png)
-![Screenshot 5](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/5.png)
-![Screenshot 6](https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/6.png)
+## Preview : 
+
+<p align="left"><img width=25% src="Assets/Kisan.jpg"></p>
+
+<p align="left">
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/1.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/2.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/3.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/4.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/5.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=20% src="https://github.com/KaranPatra/DIGIFARMER/blob/master/assets/images/preview/6.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
 
 ## Tech stack
 
