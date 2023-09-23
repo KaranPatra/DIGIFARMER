@@ -100,4 +100,4 @@ Shubham Waghmare
 </tr>
 
   </table>
-Feel free to reach out to any of the project maintainers with any questions or feedback.
+Feel free to reach out to any of the project maintainers with any questions or feedback. If you are using the repository then do give us the credit. 
